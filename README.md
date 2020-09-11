@@ -1,16 +1,23 @@
-### Hi there 👋
+# Client and Developer Advocate / StartUp and Innovation Mentor
 
-<!--
-**SimonARBaker/SimonARBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with IBM's largest accounts in UK and Europe helping drive skills and enablement for developer, engineering and technical roles.
+- :rocket: I also have extensive experience mentoring and helping startups understand the business value of technology
+- :link: I am working on the bridge between technology value and client technical stratgies - sometimes they are two worlds
+   - and the bridge between startups and corporates - not straightforward
+- 🌱 I’m currently learning everday
+- 🤔 I’m looking for help from the experience of others
+- 💬 Ask me about 
+- ⚡ Fun fact:
+  - I race :sailboat: and I am a :mountain_bicyclist:
+  - I love my :house_with_garden: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ask me anything, anytime!
+
+[![Twitter][1.2]][1]&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn][2.2]][2]&nbsp;&nbsp;&nbsp;&nbsp;
+
+[1.2]: https://github.com/simonarbaker/simonarbaker/blob/master/twitter.png
+[2.2]: https://github.com/simonarbaker/simonarbaker/blob/master/linkedin.png
+[1]: https://twitter.com/SimonARBaker
+[2]: https://linkedin.com/in/SimonARBaker
