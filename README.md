@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with software vendors, application and services providers helping them understand how IBM's open technology can bring value to their business and technical stratgies in serving their own customers and markets.
 - :rocket: I also have extensive experience mentoring and helping startups understand the business value of technology
-- :link: I am working on the bridge between technology value and client technical stratgies - sometimes they are two worlds
+- :link: I am working on the bridge between technology value and client technical strategies - sometimes they are two worlds
    - and the bridge between startups and corporates - not straightforward - having worked with everythin from IBM's largest accounts in UK and Europe to the smaller startup and innovation partners, helping drive skills and enablement for developer, engineering and technical roles.
 - 🌱 I’m currently learning everday
 - 🤔 I’m looking for help from the experience of others
